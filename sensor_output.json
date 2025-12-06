@@ -1,0 +1,18 @@
+[
+    {
+        "sensor_id": "T-4001-A",
+        "sensor_place": "Shibin el Kom",
+        "sensor_location": {
+            "plus_code": "H226+JWF"
+        },
+        "availability": true
+    },
+    {
+        "sensor_id": "H-2055-B",
+        "sensor_place": "Warehouse Floor B",
+        "sensor_location": {
+            "plus_code": "26VQ+Q8"
+        },
+        "availability": true
+    }
+]
